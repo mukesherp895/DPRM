@@ -1,0 +1,6 @@
+@DPRM.WebAPI_HostAddress = http://localhost:5253
+
+GET {{DPRM.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
